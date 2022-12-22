@@ -29,5 +29,5 @@ A web application that allows the faculty and students to monitor attendance onl
 * Add users
 
 ### Institution
-<img src="https://user-images.githubusercontent.com/62866585/209071815-6c9f0cf5-dd76-493c-a9b8-84f407ce1452.png" width="50" height="50">
-**Ateneo de Davao**
+**Ateneo de Davao** - School of Arts and Sciences <img src="https://user-images.githubusercontent.com/62866585/209071815-6c9f0cf5-dd76-493c-a9b8-84f407ce1452.png" width="50" height="50">
+
